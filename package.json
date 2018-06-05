@@ -1,0 +1,23 @@
+{
+  "name": "todolistapp",
+  "version": "1.0.0",
+  "description": "Built with Express.js and love;",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Nodejs",
+    "Expressjs",
+    "restAPI"
+  ],
+  "author": "Beta Priyoko <beta.priyoko@students.amikom.ac.id>",
+  "license": "ISC",
+  "dependencies": {
+    "e": "0.0.4",
+    "express": "^4.16.3",
+    "md5": "^2.2.1",
+    "mysql": "^2.15.0",
+    "nodemon": "^1.17.3"
+  }
+}
